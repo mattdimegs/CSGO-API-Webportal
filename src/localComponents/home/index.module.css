@@ -1,5 +1,11 @@
 .searchFieldHome {
-    display: flex;
-    justify-content: center;
-    margin-top: 50px;
-  }
+  display: flex;
+  justify-content: center;
+  margin-top: 50px;
+}
+
+.searchButtonHome {
+  display: flex;
+  justify-content: center;
+  margin-top: 25px;
+}
